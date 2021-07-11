@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pesquisa_seleção_catia_remelgado/1.0.0": {
+        "runtime": {
+          "pesquisa_seleção_catia_remelgado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pesquisa_seleção_catia_remelgado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
